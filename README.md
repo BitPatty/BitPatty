@@ -1,3 +1,4 @@
+```cs
 namespace GitHub
 {
   class BitPatty
@@ -8,3 +9,4 @@ namespace GitHub
     }
   }
 }
+```
