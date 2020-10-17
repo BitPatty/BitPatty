@@ -1,12 +1,1 @@
-```cs
-namespace GitHub
-{
-  class BitPatty
-  {
-    static void Main(string[] args) {
-      // TODO: Epic Algorithm
-      Console.WriteLine("Hello World!");
-    }
-  }
-}
-```
+[![BitPatty's github stats](https://github-readme-stats.vercel.app/api?username=bitpatty)](https://github-readme-stats.vercel.app/api?username=bitpatty)
