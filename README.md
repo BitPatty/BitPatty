@@ -1,1 +1,2 @@
-[![BitPatty's github stats](https://github-readme-stats.vercel.app/api?username=bitpatty)](https://github-readme-stats.vercel.app/api?username=bitpatty)
+![](https://github.com/bitpatty/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/bitpatty/github-stats/blob/master/generated/languages.svg)
