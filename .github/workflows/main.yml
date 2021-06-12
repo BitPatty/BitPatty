@@ -22,11 +22,11 @@ jobs:
           # plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           # plugin_la nguages_threshold: 2%                             # Hides all languages less than 2%
-          # plugin_languages_limit: 8                                   # Display up to 8 languages
+          plugin_languages_limit: 100                                   # Display up to 8 languages
           plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 100                             # Limit recently used stats to last week
+          plugin_languages_recent_days: 14                              # Limit recently used stats to last week
           commits_authoring: Collet                                     # Surnames or email addresses used to identify your commits
           plugin_stars: yes
           plugin_stars_limit: 4 # Limit to 4 entries
