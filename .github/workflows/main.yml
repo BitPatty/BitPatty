@@ -28,7 +28,7 @@ jobs:
           commits_authoring: matteias.collet@bluewin.ch, .user.login, Collet
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 500
           plugin_habits_days: 7
           plugin_habits_facts: yes
